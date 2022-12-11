@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>UMS</title>
+<link type="text/css" rel="stylesheet" href="CA1 PROJECT-2.css">
+</head>
+<body><center><h1 style="background-color:Blue; color:white;"><pre style="font-family:Times New Roman";>A.B.  UNIVERSITY  MANAGEMENT  SYSTEM</pre></h1></center>
+<br>
+<main>
+<div class="div1">
+<img align="left" style="margin-left:20px; margin-top:2px;" height="75" width="75" src="C:\Users\jawab\Desktop\lpu logo.png">
+<button type="normal" style="margin-left:220px; margin-top:45px; font-size:20;"><a href="https://lpulive.lpu.in/login?space=lpu-demo1" target="_blank"><b>ABU Live</b></a></button>
+<button type="normal" style="margin-left:140px; font-size:20;"><a href="https://play.google.com/store/apps/details?id=ums.lovely.university&hl=en_IN" target="_blank"><b>ABU Touch</b></a></button>
+<button type="normal" style="margin-left:140px; font-size:20;"><a href="https://lovelyprofessionaluniversity.codetantra.com/secure/home.jsp" target="_blank"><b>My Class</b></a></button>
+<button type="normal" style="margin-left:140px; font-size:20;"><a href="https://ums.lpu.in/lpuums/"><b>Logout</b></a></button>
+</div>
+<div class="div2"><h2> Course Wise Attendance</h2></div>
+<div class="div3">
+<div class="scroll-bar">
+<pre style="font-family:Times New Roman;">
+
+CHE110			ENVIRONMENTAL STUDIES												91%<hr>
+CSE111			ORIENTATION TO COMPUTING-I    										95%<hr>
+CSE326			INTERNET PROGRAMMING LABORATORY     								94%<hr>
+ECE249			BASIC ELECTRICAL AND ELECTRONICS ENGINEERING						 97%<hr>
+ECE279			BASIC ELECTRICAL AND ELECTRONICS ENGINEERING LABORATORY		95%<hr>
+INT108			PYTHON PROGRAMMING												92%<hr>
+MTH174			ENGINEERING MATHEMATICS											 86%<hr>
+PES318			SOFT SKILLS-I															90%</pre>
+</div><br>
+<p style="font-size:18";><b>Aggregate Attendance</b> : 92%</p>
+</div>
+<div class="div4"><h2> Today's Time Table</h2></div>
+<div class="div5">
+<img style="border-width:2px; margin-left:25px; margin-top:25px" align="left" height="85" width="80" src="C:\Users\jawab\Downloads\formal dress.jpeg"><br>
+<br><pre style="font-family:Times New Roman";><b>        Welcome
+	Bharat
+	(12216193)</b></pre>
+</div>
+<div class="div6">
+<table style="color:black" border="2" width="600px">
+<tr>
+<th>Time</th>
+<th>Course</th>
+<th>Room Number</th>
+<th> Att. Status</th>
+</tr>
+<tr>
+<td align="center">11-12 AM</td>
+<td align="center">CSE326</td>
+<td align="center">25-503 : ABULive</td>
+<td align="center">Present</td>
+</tr>
+<tr>
+<td align="center">12-01 PM</td>
+<td align="center">CSE326</td>
+<td align="center">25-503 : ABULive</td>
+<td align="center">Going On</td>
+</tr>
+<tr>
+<td align="center">01-02 PM</td>
+<td align="center">INT108</td>
+<td align="center">25-503 : ABULive</td>
+<td align="center">Upcoming</td>
+</tr>
+<tr>
+<td align="center">03-04 PM</td>
+<td align="center">CSE111</td>
+<td align="center">37-711 : ABULive</td>
+<td align="center">Upcoming</td>
+</tr>
+</table>
+</div>
+<div class="div7"><ul type="circle">
+<br><li> Roll No - RK22HSB40 (Term:122231)</li><br><hr>
+<br><li> Group - 2 (Section:K22HS)</li><br><hr>
+<br><n> Programme - P132 ::B.Tech.(Computer <br>Science & Engineering)</li><br><hr>
+<br><li> Books Issued from Library - 2</li><br><hr>
+<br><li> Seating Plan - 5
+</ul>
+</div>
+<div class="div8" style="font-size:22;"><b><u>Announcements</u></b>
+<div class="scroll-bar1">
+1) Restricted Movement due to conduct of External Agency Examination in block 26,27 and 28.<hr>
+2) Webinar on How to do effective Legal Research with SCC Online (Legal Research Database)<hr>
+3) Advert to Innovate "Give Wings to Your Imagination"<hr>
+4) Compulsory Submission of Anti Ragging Form<hr>
+5) FREE & Confidential counseling Service - Department of Counseling & Happiness 
+</div>
+</style></div>
+<div class="div9" style="font-size:20;"><b><u>Teacher on leave :-</u></b><br>
+<pre style="font-size:14; font-family:Time New Roman;">
+1.) Teacher Name: Dr. Deepak Kumar
+      Course Code : MTH174
+      Day Span    : Full Day</pre>
+</div>
+</main>
+</body>
+</html>
